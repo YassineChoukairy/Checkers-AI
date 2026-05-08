@@ -132,3 +132,5 @@ class Checkers:
         if len(black_moves) == 0:
             return "WHITE"
         return None
+
+
